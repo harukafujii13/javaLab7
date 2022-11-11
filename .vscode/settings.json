@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/harukafujii/Desktop/WMAD/Java/javafx-sdk-19/lib/**/*.jar",
+        "/Users/harukafujii/Downloads/postgresql-42.5.0.jar"
+    ]
+}
